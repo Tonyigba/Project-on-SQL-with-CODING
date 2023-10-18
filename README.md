@@ -1,7 +1,7 @@
 # PROJECT-on-SQL-with-CODING
 
 # INTRODUCTION 
-The Employee, Salary, Department, and Superstore1 dataset serves as a valuable resource for addressing 10 key business questions. This analysis focuses on the writing of CODINGS, CLEANING, ANALYSING, AND HAVING RESULTS of data, intending to have valuable insights into the DATABASE. This analysis will give an understanding of the datasets performance and opportunities for optimization and getting more information on the Companys's employees.
+The Employee, Salary, Department, and Superstore1 dataset is valuable for addressing 10 key business questions. This analysis focuses on the writing of CODINGS, CLEANING, ANALYSING, AND HAVING RESULTS of data, intending to have valuable insights into the DATABASE. This analysis will give an understanding of the dataset's performance and opportunities for optimization and getting more information on the company's employees.
 
 Problem Statement:
 Using the dataset, the TEN key questions generated were;
